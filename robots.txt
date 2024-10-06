@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://yitowubifiso.pages.dev/sitemap.xml
